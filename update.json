@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Cinema Tower",
+        "version":0.1,
+        "version-suffix":"-privatealpha",
+        "download":"https://owo.whats-th.is/cinematower1-0.zip",
+        "altdownload":"https://totally-not.a-sketchy.site/cinematower1-0.zip",
+        "info":"Insert Info",
+        "icon":"https://theworstme.me/cinematower1-0.png"
+    },
+    {
+        "title":"CT Updater",
+        "version":0.1,
+        "version-suffix":"",
+        "download":"https://owo.whats-th.is/cinematoweru1-0.zip",
+        "altdownload":"https://totally-not.a-sketchy.site/cinematoweru1-0.zip",
+        "info":"Insert Info",
+        "icon":"https://theworstme.me/cinematoweru1-0.png"
+    }
+]
