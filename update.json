@@ -1,20 +1,20 @@
 [
     {
         "title":"Cinema Tower",
-        "version":0.1,
+        "version":1.0,
         "version-suffix":"-privatealpha",
-        "download":"https://owo.whats-th.is/cinematower1-0.zip",
-        "altdownload":"https://totally-not.a-sketchy.site/cinematower1-0.zip",
-        "info":"Insert Info",
+        "download":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
+        "altdownload":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
+        "info":"Initial Release",
         "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
     },
     {
         "title":"CT Updater",
-        "version":0.1,
+        "version":1.0,
         "version-suffix":"",
-        "download":"https://owo.whats-th.is/cinematoweru1-0.zip",
-        "altdownload":"https://totally-not.a-sketchy.site/cinematoweru1-0.zip",
-        "info":"Insert Info",
+        "download":"",
+        "altdownload":"",
+        "info":"Initial Release",
         "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
     }
 ]
