@@ -1,23 +1,25 @@
-"servers:[
-    "cinematower.ddns.net"
-]
-"updateinfo":[
-    {
-        "title":"Cinema Tower",
-        "version":1.0,
-        "version-suffix":"-privatealpha",
-        "download":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
-        "altdownload":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
-        "info":"Initial Release",
-        "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
-    },
-    {
-        "title":"CT Updater",
-        "version":1.0,
-        "version-suffix":"",
-        "download":"",
-        "altdownload":"",
-        "info":"Initial Release",
-        "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
-    }
-]
+{
+    "servers:[
+        "cinematower.ddns.net"
+    ]
+    "updateinfo":[
+        {
+            "title":"Cinema Tower",
+            "version":1.0,
+            "version-suffix":"-privatealpha",
+            "download":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
+            "altdownload":"https://www.dropbox.com/s/lnp31a599yjlo60/addons.7z?dl=0",
+            "info":"Initial Release",
+            "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
+        },
+        {
+            "title":"CT Updater",
+            "version":1.0,
+            "version-suffix":"",
+            "download":"",
+            "altdownload":"",
+            "info":"Initial Release",
+            "icon":"https://rawcdn.githack.com/cinema-tower-krew/ct-updater-json/854212456de33daebf6036e8cffe5790cff6e11c/image.png"
+        }
+    ]
+}
