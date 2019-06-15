@@ -1,4 +1,7 @@
-[
+"servers:[
+    "cinematower.ddns.net"
+]
+"updateinfo":[
     {
         "title":"Cinema Tower",
         "version":1.0,
